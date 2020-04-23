@@ -13,7 +13,7 @@
   padding: 0; }
 
 body {
-  font-family: "Roboto", sans-serif;
+  font-family: "Microsoft JhengHei", "Roboto", sans-serif;
   background-color: #f2f4f8;
   overflow-x: hidden; }
 
@@ -133,7 +133,7 @@ img {
     padding: 0 12px;
     display: block;
     height: 35px;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 34px; }
   .classynav ul li .megamenu li a {
     border-bottom: none;
@@ -497,7 +497,7 @@ img {
     clear: both;
     z-index: 10; }
     .classynav ul li a {
-      padding: 0 10px;
+      padding: 0 20px;
       height: 38px;
       line-height: 38px; }
     .classynav ul li .dropdown {
@@ -578,9 +578,9 @@ img {
   background-color: #ffffff;
   position: fixed;
   top: 0;
-  left: -310px;
+  left: -260px;
   z-index: 1000;
-  width: 300px;
+  width: 250px;
   height: 100%;
   -webkit-transition-duration: 500ms;
   transition-duration: 500ms;
@@ -597,7 +597,7 @@ img {
   clear: both;
   z-index: 10; }
   .breakpoint-on .classynav ul li a {
-    padding: 0 10px;
+    padding: 0 20px;
     height: 38px;
     line-height: 38px; }
   .breakpoint-on .classynav ul li .dropdown {
